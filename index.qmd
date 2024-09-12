@@ -1,5 +1,20 @@
 ---
 title: "Yu, Lexun"
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  image: https://ipfs.crossbell.io/ipfs/bafybeiaj3ppvqthuecvl652dtp5jtdmjrgb4d34hogwszlukscir473n2a?img-quality=75&img-format=auto&img-onerror=redirect&img-width=384
+  links:
+    - icon: envelope
+      text: "Email"
+      href: "mailto:lyu@prpr.one"
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/yulexun
+
 ---
 
-Hi, this is Yu, Lexun's Quarto Website.
+Hi, this is Yu, Lexun's Quarto Website. \
+This is the landing page for [reflection exercise 2](https://q.utoronto.ca/courses/351835/assignments/1363791#submit) of [STA304](https://artsci.calendar.utoronto.ca/course/sta304h1).
+

@@ -2,6 +2,8 @@
 title: "About"
 ---
 
-Undergrad international student in Canada.
+Undergrad international student in Canada. \
 
-From Beijing, CN
+From Beijing, CN \
+
+To learn more, visit my [personal website](https://prpr.one/about).
