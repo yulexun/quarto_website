@@ -6,4 +6,6 @@ Undergrad international student in Canada. \
 
 From Beijing, CN \
 
-To learn more, visit my [personal website](https://prpr.one/about).
+To learn more about me and my works, visit my [personal website](https://prpr.one).
+
+![screenshot of my website](images/Screenshot_prpr.one.jpeg)
