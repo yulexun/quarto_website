@@ -1,11 +1,5 @@
+---
+title: "Yu, Lexun"
+---
 
-
-```{r}
-library(babynames)
-library(leaflet)
-library(mapdeck)
-library(shiny)
-library(tidyverse)
-library(troopdata)
-library(usethis)
-```
+Hi, this is Yu, Lexun's Quarto Website.
